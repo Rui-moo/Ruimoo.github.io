@@ -29,7 +29,7 @@ Publications
 * Papers in SCI-indexed Journals:
   * 1.Changwei Zhao, Yanjun Zhang, Yuewen Jia, Bojun Li, Wenjing Tang, Chuning Shang, Rui Mo, Pei Li, Shaomin Liu & Sui Zhang. 
   Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation. Nat Commun 14, 1112 (2023).(These authors contributed equally: Changwei Zhao, Yanjun Zhang, Yuewen Jia, Bojun Li.)
- * Papers in Chinese Peer-reviewed Journals:
+* Papers in Chinese Peer-reviewed Journals:
   * 1.Yinghai Zhao, Wenjing Tang, Rui Mo, Yiran Zhang, Changwei Zhao*, Rongfeng Jiang. Research on the Combined Treatment of Rural Domestic Wastewater Using Soil Infiltration Systems and Membrane Separation Systems. Technology of Water Treatment, 48(10): 127-130 (2022).
   * 2.Zheming Shi, Lin Guo, Guiming Fang, Beibei Fan, Rui Mo, Changwei Zhao*. Advances in Microbial Remediation of Polycyclic Aromatic Hydrocarbon-Contaminated Soil. Modern Chemical Industry, 42(10): 24-28 (2022).
 

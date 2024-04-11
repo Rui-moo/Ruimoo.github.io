@@ -3,8 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /pubications
 ---
 
 {% if site.author.googlescholar %}
@@ -12,9 +10,5 @@ redirect_from:
 {% endif %}
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 sddfew few wef  ef ew

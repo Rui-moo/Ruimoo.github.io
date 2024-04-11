@@ -11,4 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-sddfew few wef  ef ew
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}

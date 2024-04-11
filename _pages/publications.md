@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: / #publications/
+permalink: /publications/
 author_profile: true
+redirect_from:
+  - /pubications
 ---
 
 {% if site.author.googlescholar %}

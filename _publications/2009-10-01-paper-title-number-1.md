@@ -2,7 +2,7 @@
 title: "Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-27
 venue: 'Nature Communications'
 paperurl: 'http://ruimo.xyz/files/2023#Polyamide membranes with nanoscaleordered structures for fast permeation andhighly selective ion-ion separation-1.pdf'

@@ -39,20 +39,16 @@ Skills
 Award
 ======
 * 2023
-===
- * Certificate of Completion of National University of Singapore (Suzhou) Research institute
+  * Certificate of Completion of National University of Singapore (Suzhou) Research institute
 * 2022
-====
- * The First-Class Scholarship of the China Agricultural University
+  * The First-Class Scholarship of the China Agricultural University
 * 2021
-======
- * The First-Class Scholarship of the Changchun University of Technology
-Excellence Graduation Thesis Award of the Changchun University of Technology
+  * The First-Class Scholarship of the Changchun University of Technology
+  * Excellence Graduation Thesis Award of the Changchun University of Technology
 * 2020
-=======
- * The First-Class Scholarship of the Changchun University of Technology
+  * The First-Class Scholarship of the Changchun University of Technology
 * 2019
- * The First-Class Scholarship of the Changchun University of Technology
+  * The First-Class Scholarship of the Changchun University of Technology
 * 2018
- * The Second-Class Scholarship of the Changchun University of Technology
+  * The Second-Class Scholarship of the Changchun University of Technology
   

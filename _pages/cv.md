@@ -11,27 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Resources & Environmental Resources, China Agricultural University, 2021.09-2023.07
+* B.S. in Environment Engineering, Changchun University of Technology, 2017.09-2021.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Membrane separation
+  * China Agricultural University
+  * Duties includes: testing membrane performance
+  * Supervisor: Changwei Zhao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -41,24 +36,23 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Award
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2023
+===
+ * Certificate of Completion of National University of Singapore (Suzhou) Research institute
+* 2022
+====
+ * The First-Class Scholarship of the China Agricultural University
+* 2021
+======
+ * The First-Class Scholarship of the Changchun University of Technology
+Excellence Graduation Thesis Award of the Changchun University of Technology
+* 2020
+=======
+ * The First-Class Scholarship of the Changchun University of Technology
+* 2019
+ * The First-Class Scholarship of the Changchun University of Technology
+* 2018
+ * The Second-Class Scholarship of the Changchun University of Technology
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

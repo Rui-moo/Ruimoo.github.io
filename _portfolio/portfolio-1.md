@@ -1,6 +1,6 @@
 ---
-title: "The three groges"
-excerpt: "the three groges iv very beaytiful<br/><img src='/images/threegroges.png'>"
+title: "The three gorges"
+excerpt: "The three gorges is very beautiful<br/><img src='/images/threegorges.png'>"
 collection: portfolio
 ---
 
